@@ -95,18 +95,3 @@ To uninstall the Helm chart:
 ```sh
 helm uninstall apiservice
 ```
-
-## Evaluation Criteria
-
-### Technical Requirements (50%)
-
-- **Infrastructure Setup**: GKE cluster configured correctly, Terraform code well-structured & follows best practices.
-- **Application Deployment**: Helm chart deploys API service successfully, chart well-structured & follows best practices.
-- **API Testing & Functionality**: Meaningful and thorough tests that validate API functionality.
-
-### Documentation (50%)
-
-- **README Clarity & Completeness**: Clear, concise, easy-to-follow instructions, troubleshooting tips, logical flow.
-- **Written Communication**: Professional tone, correct grammar/spelling, effective technical communication.
-
-If you run out of time and skip anything, please explain why and what you would do if you had more time to complete the test.
